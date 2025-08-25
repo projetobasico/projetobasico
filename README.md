@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&center=false&vCenter=true&lines=All+Day+I+Dream+About+Software(adidas)" alt="Typing SVG" />
   </a>
 </div> 
-
-<br/>
 I’m a Senior Full Stack Engineer with over 10 years of experience in web and mobile development.
 
+<br/>
+<br/>
 💼 I specialize in:
 <br/>
 <br/>
